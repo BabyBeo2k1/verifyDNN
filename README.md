@@ -5,4 +5,5 @@ Early Implementation of DNN verification algorithms
 
 - DeepPoly
 - ReluPlex
-  
+
+All testing writen in `test.ipynb`
